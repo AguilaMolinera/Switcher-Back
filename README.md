@@ -4,7 +4,7 @@
 
 El proyecto se titula **El Switcher**.
 
- La aplicación web **Switcher** es una plataforma en línea que digitaliza el popular juego de mesa Switcher, proporcionando una experiencia de juego interactiva de hasta 4 jugadores online. Permite a los usuarios disfrutar del conocido juego de mesa en un formato virtual, simple y fiel al original.
+La aplicación web **Switcher** es una plataforma en línea que digitaliza el popular juego de mesa [El Switcher](https://maldon.com.ar/blog/projects/el-switcher/), proporcionando una experiencia de juego interactiva de hasta 4 jugadores online. Permite a los usuarios disfrutar del conocido juego de mesa en un formato virtual, simple y fiel al original.
 
 ## Requerimientos para montar la aplicación (back-end):
 
@@ -61,3 +61,4 @@ coverage html
 ```
 firefox htmlcov/index.html
 ```
+Utilizar junto a [front-switcher](https://github.com/AguilaMolinera/Switcher-Front)
